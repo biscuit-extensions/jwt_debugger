@@ -1,0 +1,7 @@
+[extension]
+id = "jwt_debugger"
+name = "Jwt Debugger"
+version = "0.1.0"
+description = "Jwt Debugger extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
